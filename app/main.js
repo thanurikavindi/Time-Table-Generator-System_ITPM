@@ -8,7 +8,7 @@ function createWindow () {
       nodeIntegration: true
     }
   })
-
+//timetable
   win.loadFile('app/index.html')
 }
 
